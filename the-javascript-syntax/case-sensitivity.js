@@ -1,4 +1,4 @@
 const animal = 'Dog';
 const Animal = 'Dog';
 
-// The identifiers "animal" and "Animal" are stored in different areas of memory.
+// animal and Animal are different as far as JavaScript is concerned.
