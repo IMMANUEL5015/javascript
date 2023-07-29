@@ -15,3 +15,6 @@ won't be fully grasped without looking at the examples in this codebase.
 
 ## The JavaScript Syntax
 Here is the link to the [article](https://docs.google.com/document/d/1xrcUlWNX-xm93sVvYVHlhkeYlgq7Ypf951vK47mmRfk/edit?usp=sharing)
+
+## JavaScript Variables
+Here is the link to the [article](https://docs.google.com/document/d/14CFpES2KbpG3vWIpxwgIP0_kLLS__UrDLOjAthgNAfY/edit?usp=sharing)
