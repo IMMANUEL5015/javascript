@@ -18,3 +18,9 @@ Here is the link to the [article](https://docs.google.com/document/d/1xrcUlWNX-x
 
 ## JavaScript Variables
 Here is the link to the [article](https://docs.google.com/document/d/14CFpES2KbpG3vWIpxwgIP0_kLLS__UrDLOjAthgNAfY/edit?usp=sharing)
+
+## JavaScript Data Types
+Here is the link to the [article](https://docs.google.com/document/d/198_8gmEbTQGhJA4kxpDZYVa5BG1iXofqE4zC90mRPA4/edit?usp=sharing)
+
+## JavaScript Numbers
+Here is the link to the [article](https://docs.google.com/document/d/1-eh0tpbmZPCS1mAnzRIfbAIk6Xy2uFzKwHd5YDLzD-U/edit?usp=sharing)
