@@ -27,3 +27,6 @@ Here is the link to the [article](https://docs.google.com/document/d/1-eh0tpbmZP
 
 ## JavaScript Strings
 Here is the link to the [article](https://docs.google.com/document/d/1nSv_WOLSPPugjZmC0Fi0GDtIFK-4b8_Z1XxFby5Zc40/edit?usp=sharing)
+
+## JavaScript Operators
+Here is the link to the [article](https://docs.google.com/document/d/1r9n61DYS4V__Qb3A7QAUBTkooc4hkZkTnmRj1YIOJvQ/edit?usp=sharing)
