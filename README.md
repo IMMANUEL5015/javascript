@@ -30,3 +30,6 @@ Here is the link to the [article](https://docs.google.com/document/d/1nSv_WOLSPP
 
 ## JavaScript Operators
 Here is the link to the [article](https://docs.google.com/document/d/1r9n61DYS4V__Qb3A7QAUBTkooc4hkZkTnmRj1YIOJvQ/edit?usp=sharing)
+
+## JavaScript Expressions
+Here is the link to the [article](https://docs.google.com/document/d/1CAKFe6zjjguwZJXuAeynQSJ1J3mpswEiZpk3dLxYOck/edit?usp=sharing)
