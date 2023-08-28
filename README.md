@@ -33,3 +33,6 @@ Here is the link to the [article](https://docs.google.com/document/d/1r9n61DYS4V
 
 ## JavaScript Expressions
 Here is the link to the [article](https://docs.google.com/document/d/1CAKFe6zjjguwZJXuAeynQSJ1J3mpswEiZpk3dLxYOck/edit?usp=sharing)
+
+## JavaScript Control Structures
+Here is the link to the [article](https://docs.google.com/document/d/1m9BKUhlzLetvMzE0rzW4GomxiCl07qQwoPXarGzAIfk/edit?usp=sharing)
