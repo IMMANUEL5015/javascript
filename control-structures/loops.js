@@ -66,6 +66,7 @@ for (let num of nums) {
 */
 
 // Iterating over a map
+/*
 const aMap = new Map();
 aMap.set('a', -1);
 aMap.set('a', -2);
@@ -81,3 +82,19 @@ aMap.set('g', 7);
 for (let pair of aMap) {
     console.log(pair);
 }
+*/
+
+// For await loop
+async function* foo() {
+    yield 1;
+    yield 2;
+    yield 3;
+    yield 4;
+    yield 5;
+}
+  
+(async function () {
+    for await (const num of foo()) {
+        console.log(num);
+    }
+})();
