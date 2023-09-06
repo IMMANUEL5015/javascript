@@ -36,3 +36,7 @@ Here is the link to the [article](https://docs.google.com/document/d/1CAKFe6zjjg
 
 ## JavaScript Control Structures
 Here is the link to the [article](https://docs.google.com/document/d/1m9BKUhlzLetvMzE0rzW4GomxiCl07qQwoPXarGzAIfk/edit?usp=sharing)
+
+
+## JavaScript Handling Errors
+Here is the link to the [article](https://docs.google.com/document/d/1cpHTq4YOaP7eN2jWZSAnB7y0BuST8NJbJ7huyPnhChc/edit?usp=sharing)
