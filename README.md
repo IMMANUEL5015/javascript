@@ -9,7 +9,7 @@ Here is a link to the [Introduction](https://docs.google.com/document/d/1TsKAGbl
 ## What is JavaScript.
 You can find the written tutorial [here](https://docs.google.com/document/d/1GZhZ5dejOGhwRPLqGPSTrPdys6ZgJyc9PSRtklGKCgg/edit?usp=sharing)
 
-In the written tutorial, we metioned concepts like dynamically and weakly typed, 
+In the written tutorial, we mentioned concepts like dynamically and weakly typed, 
 object-oriented, prototype based, imperative and declarative programming. These concepts
 won't be fully grasped without looking at the examples in this codebase.
 
@@ -36,7 +36,6 @@ Here is the link to the [article](https://docs.google.com/document/d/1CAKFe6zjjg
 
 ## JavaScript Control Structures
 Here is the link to the [article](https://docs.google.com/document/d/1m9BKUhlzLetvMzE0rzW4GomxiCl07qQwoPXarGzAIfk/edit?usp=sharing)
-
 
 ## JavaScript Handling Errors
 Here is the link to the [article](https://docs.google.com/document/d/1cpHTq4YOaP7eN2jWZSAnB7y0BuST8NJbJ7huyPnhChc/edit?usp=sharing)
